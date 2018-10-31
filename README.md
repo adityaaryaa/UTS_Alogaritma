@@ -82,4 +82,4 @@ while( T <= Batas)
 }
 
 **SCREENSHOOT**
-![SCREENSHOOT](https://raw.githubusercontent.com/adityaaryaa/UTS_Alogaritma/master/SS%20LATIHAN%202.png
+![SCREENSHOOT](https://raw.githubusercontent.com/adityaaryaa/UTS_Alogaritma/master/SS%20LATIHAN%202.png)
